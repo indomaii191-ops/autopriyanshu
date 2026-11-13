@@ -6,8 +6,8 @@ load_dotenv()
 # ============================================================
 #  PASTE YOUR REAL VALUES HERE
 # ============================================================
-TELEGRAM_BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
-ROOT_ADMIN_ID = 123456789
+TELEGRAM_BOT_TOKEN = "9285898789:AAEjB0F9njM2p4ULSteqyCu3vrOp3qFN4P0"
+ROOT_ADMIN_ID = 8808548429
 PURCHASE_USERNAME = "@nemogotmad"
 
 VERCEL_API_TOKEN = "PASTE_YOUR_VERCEL_TOKEN_HERE"
