@@ -5,11 +5,11 @@
     "reviews": "12L reviews",
     "downloads": "5Cr+",
     "contentRating": "Rated for 3+",
-    "logo": "img/logo.jpg",
+    "logo": "img/appicon.png",
     "about": "mParivahan by MoRTH, Government of India. Access your RC, Driving Licence, challans, and RTO services on your phone.\n\nKey Features:\nDigital RC — Show your RC digitally\nDigital DL — Carry your driving licence on your phone\nChallan Management — View and pay traffic challans\nRTO Services — Apply, renew, transfer online\nVehicle Details — Get complete info on any vehicle\nInsurance Check — Verify vehicle insurance\nDigital India — Officially recognised app\n\nDownload now to access RTO services anytime, anywhere.",
     "screenshots": [
-        "img/ss_1.jpg",
-        "img/ss_2.jpg",
-        "img/ss_3.jpg"
+        "img/shot1.jpg",
+        "img/shot2.jpg",
+        "img/shot3.jpg"
     ]
 }
